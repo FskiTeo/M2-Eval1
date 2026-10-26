@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotePreferentiel", "VotePreferentiel\VotePreferentiel.csproj", "{A0F2C2EF-8B88-4E50-8160-71CA22925968}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotePreferentielService", "VotePreferentielService\VotePreferentielService.csproj", "{CCD9CF38-CF3C-42D3-B60D-14CB5F3169B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{5ABCFB28-9F97-40A8-8534-D9E26FE3937A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{A0F2C2EF-8B88-4E50-8160-71CA22925968}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0F2C2EF-8B88-4E50-8160-71CA22925968}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0F2C2EF-8B88-4E50-8160-71CA22925968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD9CF38-CF3C-42D3-B60D-14CB5F3169B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD9CF38-CF3C-42D3-B60D-14CB5F3169B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD9CF38-CF3C-42D3-B60D-14CB5F3169B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD9CF38-CF3C-42D3-B60D-14CB5F3169B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABCFB28-9F97-40A8-8534-D9E26FE3937A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABCFB28-9F97-40A8-8534-D9E26FE3937A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABCFB28-9F97-40A8-8534-D9E26FE3937A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABCFB28-9F97-40A8-8534-D9E26FE3937A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
